@@ -57,7 +57,7 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=VettelIT&show_icons=true&theme=radical" alt="GitHub Stats">
   </a>
 </div>
 
