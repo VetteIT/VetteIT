@@ -15,11 +15,18 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
 </div>
 
 ### 🌱 Embarking on a Learning Quest:
-- Charting the **MERN** territory: MongoDB, Express.js, React, Node.js
-- Constructing **Progressive Web Apps (PWAs)** for the future
-- Mastering the arcane arts of **Redux** for state management
+
+<div align="center">
+  
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/> MongoDB
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/> Node.js
+- <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="48" height="48"/> React
+- <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="48" height="48"/> Redux
+
+</div>
 
 ### 🎮 Leisure Chronicles:
+
 - Commander of virtual realms (**Gaming Enthusiast**)
 - Time-traveler through **Sci-Fi series**
 - Devourer of **Tech Articles**
@@ -32,14 +39,19 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
 </div>
 
 ### 🛠 Crafting with Languages & Tools:
-- **JavaScript**: The spellbook of web magic
-- **React**: Conjuring interfaces with a snap
-- **Redux**: Weaving complex state tapestries
-- **Node.js** & **Express.js**: Enchanting the server side
-- **MongoDB**: Hoarding data treasures
-- **Git**: Chronomancer's tool for time-traveling through code
-- **npm**: Alchemist's lab for package concoctions
-- **Webpack**: Forging modules into streamlined bundles
+
+<div align="center">
+  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="48" height="48"/>
+
+</div>
 
 ## 🌐 Connect in the Ether
 
@@ -48,10 +60,23 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
 </div>
 
 ### 🤝 Join Me in the Quest:
-- **Email** ([mykyta.olym@student.tuke.sk](mykyta.olym@student.tuke.sk)): Send a raven or an email
-- **LinkedIn** ([Your Profile](https://www.linkedin.com/in/your-linkedin-id/)): Forge alliances
-- **GitHub** ([Your Repository](https://github.com/your-github-username)): Collaborate on scrolls of code
-- **Twitter** ([Your Tweet](https://twitter.com/your-twitter-handle)): Echoes in the twitterverse
+
+<div align="center">
+  
+<a href="mailto:mykyta.olym@student.tuke.sk">
+  <img src="https://img.icons8.com/fluent/96/000000/gmail-new.png" alt="Email" width="48" height="48"/>
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <img src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+</a>
+<a href="https://github.com/your-github-username">
+  <img src="https://img.icons8.com/fluent/96/000000/github.png" alt="GitHub" width="48" height="48"/>
+</a>
+<a href="https://twitter.com/your-twitter-handle">
+  <img src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="Twitter" width="48" height="48"/>
+</a>
+
+</div>
 
 ## 📊 My Tale in Stats
 
@@ -61,14 +86,28 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
   </a>
 </div>
 
+## 🐍 GitHub Contribution Snake Animation
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 📜 Scroll of Projects
 
 ### 🏗️ Architectural Marvels:
+
 - **The Portal to R'lyeh**: A React-based gateway to cosmic horrors
 - **Chronicles of the Serverless**: Adventures in Node and Express
 - **The Redux Grimoire**: Spellbook for managing the arcane state
 
 ### 🎨 Aesthetic Endeavors:
+
 - **CSS Odyssey**: Journey through styled components
 - **The Animated Scrolls**: SVG and CSS animations that breathe life into pages
 
@@ -79,11 +118,13 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
 </div>
 
 ### Open Source Incantations:
+
 - Contributions to the realm of **Open Source**: Spells and fixes for the community cauldron
 
 ## 📚 Library of Resources
 
 ### 📖 Grimoires and Scrolls:
+
 - **Eloquent JavaScript**: The ancient tome of web sorcery
 - **You Don't Know JS**: Unraveling the mysteries of JavaScript
 
