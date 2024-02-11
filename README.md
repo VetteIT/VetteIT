@@ -86,18 +86,6 @@ I'm a spirited **Frontend Developer** and **Web Technology Voyager** hailing fro
   </a>
 </div>
 
-## 🐍 GitHub Contribution Snake Animation
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
-</div>
-
 ## 📜 Scroll of Projects
 
 ### 🏗️ Architectural Marvels:
@@ -135,5 +123,7 @@ As the stars wheel overhead, my journey through code and creativity continues. W
 <div align="center">
   <img src="https://media.giphy.com/media/XAmGknqVQYB2xwq9pm/giphy.gif" alt="Farewell" width="500" height="250">
 </div>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 *************************
