@@ -124,6 +124,6 @@ As the stars wheel overhead, my journey through code and creativity continues. W
   <img src="https://media.giphy.com/media/XAmGknqVQYB2xwq9pm/giphy.gif" alt="Farewell" width="500" height="250">
 </div>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<seu VetteIT>/<seu VetteIT>/blob/output/github-contribution-grid-snake2.svg)
 
 *************************
