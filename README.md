@@ -38,6 +38,7 @@ Welcome! I’m a proud Ukrainian from Mukachevo, currently pursuing my studies a
 - **Current City:** Košice, Slovakia  
 - **Heritage:** Ukrainian roots with a love for Carpathian traditions and language  
 
+---
 
 I'm a Front-End Software Engineer by passion and focus on helping others to find their way through the complexities of web development.
 
