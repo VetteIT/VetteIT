@@ -1,129 +1,71 @@
-# Welcome to the Digital Odyssey 🚀
+# Hi there, I’m **Mykyta Olym** (he/him) 🇺🇦
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Coding in the cosmos" width="600" height="300" />
-</div>
-
-## 📖 About Me
-
-### Greetings, Fellow Traveler!
-
-I'm a spirited **Frontend Developer** and **Web Technology Voyager** from the vibrant landscapes of Ukraine. At 18, I embarked on a journey through the vast sea of binary codes and pixelated dreams, aiming to make a mark on the digital universe.
-
-<div align="right">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Night coding" height="200" width="350" />
-</div>
-
-### 🌱 Embarking on a Learning Quest
-
-<div align="center">
-
-- MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-- Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- React ![React](https://img.icons8.com/plasticine/100/000000/react.png)
-- Redux ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-
-</div>
-
-### 🎮 Leisure Chronicles
-
-- Commander of virtual realms (**Gaming Enthusiast**)
-- Time-traveler through **Sci-Fi series**
-- Devourer of **Tech Articles**
-- Paddle master in **Table Tennis**
-
-## 🧰 Toolkit
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Toolkit" width="500" height="200" />
-</div>
-
-### 🛠 Crafting with Languages & Tools
-
-<div align="center">
-
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/plasticine/100/000000/react.png)
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![npm](https://img.icons8.com/color/48/000000/npm.png)
-![Webpack](https://img.icons8.com/color/48/000000/webpack.png)
-
-</div>
-
-## 🌐 Connect in the Ether
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" alt="Connect" width="500" height="200" />
-</div>
-
-### 🤝 Join Me in the Quest
-
-<div align="center">
-  
-[![Email](https://img.icons8.com/fluent/96/000000/gmail-new.png)](mailto:mykyta.olym@student.tuke.sk)
-[![LinkedIn](https://img.icons8.com/fluent/96/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-id/)
-[![GitHub](https://img.icons8.com/fluent/96/000000/github.png)](https://github.com/your-github-username)
-[![Twitter](https://img.icons8.com/fluent/96/000000/twitter.png)](https://twitter.com/your-twitter-handle)
-
-</div>
-
-## 📊 My Tale in Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=VetteIT&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align='center'>
+   <a href="">
+     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website badge" />
+  </a>&nbsp;
+   <a href="https://dev.to/vettel">
+     <img src="https://img.shields.io/badge/dev.to-833AB4?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to badge" />
+  </a>&nbsp;
+   <a href="https://x.com/VetteIT">
+     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/mykyta-olym/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-</div>
+</p>
 
-## 🐍 GitHub Contribution Snake Animation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Front-End+Software+Engineer;Accessibility+Advocate;Open+Source+Contributor;Community+Builder" alt="Typing SVG" />
+</p>
 
-Enhance your profile's visual appeal and showcase your contributions with a playful, animated snake that crawls through your GitHub contribution graph.
+Welcome! I’m a proud Ukrainian from Mukachevo, currently pursuing my studies at TUKE in Košice, Slovakia. Here’s a bit about me:
 
-<div align="center">
+## 🎓 Education
 
-![GitHub Snake Light Mode](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark Mode](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+- **Technical University of Košice (TUKE)**  
+  – B.Sc. in Computer Science  
+  – Expected graduation: Summer 2025  
 
-</div>
+- **School №20, Mukachevo**  
+  – High school diploma with honors  
+  – Graduated: June 2022  
 
-## 📜 Scroll of Projects
 
-### 🏗️ Architectural Marvels
+## 🌍 Background
 
-- **The Portal to R'lyeh**: Dive into cosmic horrors with this React-based gateway.
-- **Chronicles of the Serverless**: Adventures and tales from Node and Express.
-- **The Redux Grimoire**: A spellbook for mastering the arcane arts of state management.
+- **Hometown:** Mukachevo, Zakarpattia Oblast, Ukraine  
+- **Current City:** Košice, Slovakia  
+- **Heritage:** Ukrainian roots with a love for Carpathian traditions and language  
 
-### 🎨 Aesthetic Endeavors
 
-- **CSS Odyssey**: A journey through styled components and design systems.
-- **The Animated Scrolls**: Breath life into web pages with SVG and CSS animations.
+I'm a Front-End Software Engineer by passion and focus on helping others to find their way through the complexities of web development.
 
-## 🧙‍♂️ Magical Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedaviddias&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" alt="Magic Contributions" width="500" height="250" />
-</div>
+## 💻 Tech I Love Working With
 
-### Open Source Incantations
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />&nbsp;
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+</p>
 
-- Contributions to the realm of **Open Source**: Spells and fixes for the community cauldron.
+Want to collaborate or learn more about any of these projects? Feel free to reach out!
 
-## 📚 Library of Resources
+## 🤝 Let's Connect
 
-### 📖 Grimoires and Scrolls
+<p align="center">
+  <a href="https://github.com/sponsors/VetteIT">
+    <img src="https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" />
+  </a>
+</p>
 
-- **Eloquent JavaScript**: The ancient tome of web sorcery.
-- **You Don't Know JS**: Unraveling the mysteries of JavaScript.
+- 💬 Ask me about **frontend development**, **accessibility**, or **open source**
+- 🌱 I'm currently exploring **AI/ML in frontend development**
 
-## 🌟 Epilogue
-
-As the stars wheel overhead, my journey through code and creativity continues. With each line of code, I seek to forge connections, build new worlds, and bring dreams to life. Join me on this quest, and together, let's create something unforgettable.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/XAmGknqVQYB2xwq9pm/giphy.gif" alt="Farewell" width="500" height="250" />
-</div>
-
+🔗 Check out my [personal website]() for more content and ways to connect!
